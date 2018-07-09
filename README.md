@@ -1,5 +1,5 @@
 # PiStar-Tracker-keyboard-Edition
-Autoguider using the PiCam, controlled via keyboard
+Autoguider using the PiCam, controlled via keyboard for a multi-star/object autoguider
 
 This star tracker is using opencv algorithms and some kind of star-distinguish-algorithms.
 it's just working with the raspberry Pi camera
